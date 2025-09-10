@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LAPLACEIMMO.png" alt="Logo Laplace Immo" width="400"/>
+  <img src="LAPLACEIMMO.png" alt="Logo Laplace Immo" width="600"/>
 </p>
 
 # 🏡 Projet Laplace Immo – Création et modification d’une base de données immobilières
